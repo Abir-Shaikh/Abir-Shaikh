@@ -48,7 +48,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Abir-Shaikh/Abir-Shaikh/output/github-snake.svg" />
 </picture>
 
-<!-- Visit Counter -->
-<div align="center">
-  [![](https://visitcount.itsvg.in/api?id=Abir-Shaikh&icon=10&color=6)](https://visitcount.itsvg.in)
-</div>
+
