@@ -1,8 +1,8 @@
 <!-- Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avijit07x&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avijit07x&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avijit07x&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abir-Shaikh&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abir-Shaikh&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-Shaikh&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
 <!-- Tech Stack -->
@@ -43,12 +43,12 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/avijit07x/avijit07x/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/avijit07x/avijit07x/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/avijit07x/avijit07x/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abir-Shaikh/Abir-Shaikh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abir-Shaikh/Abir-Shaikh/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Abir-Shaikh/Abir-Shaikh/output/github-snake.svg" />
 </picture>
 
 <!-- Visit Counter -->
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=avijit07x&icon=10&color=6)](https://visitcount.itsvg.in)
+  [![](https://visitcount.itsvg.in/api?id=Abir-Shaikh&icon=10&color=6)](https://visitcount.itsvg.in)
 </div>
