@@ -48,6 +48,4 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Abir-Shaikh/Abir-Shaikh/output/github-snake.svg" />
 </picture>
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Abir-Shaikh)
-
 
