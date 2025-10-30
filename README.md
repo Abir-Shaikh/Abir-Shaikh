@@ -41,8 +41,15 @@
 
 </div>
 
+<!-- 📊 Abir's Most Used Languages -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-Shaikh&layout=compact&theme=react&hide_border=true&custom_title=Abir%27s%20Most%20Used%20Languages" alt="Abir's Most Used Languages"/>
+</div>
+
+
 <!-- Social connections -->
 <div align="center">
+
 
 ## 🌐 Connect with Me 🍬
 
