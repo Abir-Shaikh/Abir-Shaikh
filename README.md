@@ -13,6 +13,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-Shaikh&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 
+<!--Profile views -->
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abir-Shaikh&theme=radical&hide_border=true"/>
+    <img src="https://komarev.com/ghpvc/?username=Abir-Shaikh&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+</div>
+
+
 <!-- Tech Stack -->
 <div align="center">
   
