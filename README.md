@@ -1,5 +1,8 @@
-<!-- 🌌 GitHub Contributions (2024–2025) -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abir-Shaikh&theme=react-dark&hide_border=true&area=true&custom_title=Abir%27s%20Contributions%20(2025)&from=2024-01-01&to=2025-12-31" alt="Abir's GitHub Contribution Graph"/>
+<!-- 🌌 Abir's Full Tech Contributions (2024–2025) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abir-Shaikh&theme=react-dark&hide_border=true&area=true&custom_title=Abir%27s%20Tech%20Contributions%20(2024–2025)&from=2024-01-01&to=2025-12-31" alt="Abir's Tech Contributions Graph"/>
+</div>
+
 
 
 <!-- Stats -->
