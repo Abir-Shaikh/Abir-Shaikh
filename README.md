@@ -8,10 +8,6 @@
 <!-- 🌟 Abir's Real-Time GitHub Stats -->
 <div align="center">
 
-  <!-- 🧠 Live GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Abir-Shaikh&show_icons=true&theme=react&hide_border=true&custom_title=Abir%27s%20GitHub%20Stats" alt="Abir's GitHub Stats" />
-
-  <br/>
 
   <!-- 🔥 Live Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=Abir-Shaikh&theme=react&hide_border=true&mode=weekly&date_format=j%20M%5B%20Y%5D&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="Abir's GitHub Streak"/>
