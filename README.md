@@ -5,18 +5,22 @@
 
 
 
-
-<!-- Stats -->
+<!-- 🌟 Abir's GitHub Stats Section -->
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abir-Shaikh&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-Shaikh&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
-</div>
 
-<!--Profile views -->
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abir-Shaikh&theme=radical&hide_border=true"/>
-    <img src="https://komarev.com/ghpvc/?username=Abir-Shaikh&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <!-- 🧠 GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Abir-Shaikh&show_icons=true&theme=react&hide_border=true&custom_title=Abir%27s%20GitHub%20Stats" alt="Abir's GitHub Stats" />
+
+  <br/>
+
+  <!-- 🔥 Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=Abir-Shaikh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Abir's GitHub Streak" />
+
+  <br/>
+
+  <!-- 📊 Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abir-Shaikh&layout=compact&langs_count=8&theme=react&hide_border=true&custom_title=Abir%27s%20Most%20Used%20Languages" alt="Abir's Most Used Languages" />
+
 </div>
 
 
