@@ -14,7 +14,7 @@
   <br/>
 
   <!-- 🔥 Live Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Abir-Shaikh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="Abir's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Abir-Shaikh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 
   <br/>
 
