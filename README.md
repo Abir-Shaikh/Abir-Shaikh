@@ -23,8 +23,6 @@
 
   <br/>
 
-  <!-- 🌌 Live Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abir-Shaikh&theme=react-dark&hide_border=true&area=true&custom_title=Abir%27s%20Tech%20Contributions" alt="Abir's GitHub Contribution Graph" />
 
 </div>
 
