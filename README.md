@@ -9,8 +9,11 @@
 <div align="center">
 
 
-  <!-- 🔥 Live Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Abir-Shaikh&theme=react&hide_border=true&mode=weekly&date_format=j%20M%5B%20Y%5D&fire=EB5454&ring=EB5454&currStreakLabel=EB5454" alt="Abir's GitHub Streak"/>
+  <!-- 🔥 Abir's Live GitHub Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Abir-Shaikh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Abir's GitHub Streak"/>
+</div>
+
 
   <br/>
 
