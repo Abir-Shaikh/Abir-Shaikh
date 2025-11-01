@@ -9,6 +9,11 @@
 <div align="center">
 
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abir-Shaikh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="200"/>
+  <img src="https://github-contributor-stats.vercel.app/api?username=Abir-Shaikh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="200"/>
+</p>
+
   <!-- 🔥 Abir's Live GitHub Streak -->
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Abir-Shaikh&theme=react&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Abir's GitHub Streak"/>
