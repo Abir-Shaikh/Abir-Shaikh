@@ -7,7 +7,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Ecommerce Project<br>🌱 I’m currently learning SpringBoot<br>💬 Ask me about coding<br>⚡ Fun fact is I live in Mamta's rajya
+🔭 I’m currently working on myself<br>🌱 I’m currently learning SpringBoot<br>💬 Ask me about coding<br>⚡ Fun fact is I live in Mamta's rajya
 
 
 ## 🌐 Socials:
