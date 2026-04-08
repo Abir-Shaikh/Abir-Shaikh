@@ -5,7 +5,7 @@
 </div>
 
 
-
+<a href="https://app.daily.dev/abirshaikh"><img src="https://api.daily.dev/devcards/v2/OZkt3myTSpNr0cXBQCV1J.png?type=default&r=r6i" width="356" alt="Abir Shaikh's Dev Card"/></a>
 
 # 💫 About Me:
 🔭 I am currently working on myself<br>🌱 I’m currently learning SpringBoot<br>💬 Ask me about coding<br>⚡ Fun fact is I live in Mamta's state
