@@ -8,8 +8,15 @@
 <a href="https://app.daily.dev/abirshaikh"><img src="https://api.daily.dev/devcards/v2/OZkt3myTSpNr0cXBQCV1J.png?type=default&r=r6i" width="356" alt="Abir Shaikh's Dev Card"/></a>
 
 # 💫 About Me:
-🔭 I am currently working on myself<br>🌱 I’m currently learning SpringBoot<br>💬 Ask me about coding<br>⚡ Fun fact is I live in Mamta's state
 
+I am a passionate Java Full Stack Developer with hands-on experience in building scalable, secure, and high-performance web applications.
+I enjoy working across the stack — from designing clean, responsive frontend interfaces to implementing robust backend logic and APIs.
+
+I focus on:
+
+Clean and maintainable code
+Real-world, production-oriented projects
+Efficient problem-solving and system design
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ZcgkV3PG) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abir-shaikh-10ab29321/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://hashnode.com/@Abirshaikh ) 
@@ -26,8 +33,13 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abir-Shaikh&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Abir-Shaikh)
+
 ---
-<img height="180em" src="https://geeks-for-geeks-stats-card.vercel.app/?username=user_k7yw7pp5vss"/>
+<p align="center">
+  <img height="180em" src="https://leetcard.jacoblin.cool/Abir-Shaikh?ext=heatmap&theme=wtf&font=M+PLUS+Rounded+1c&border=2&radius=20"/>
+  <img height="180em" src="https://gfgstatscard.vercel.app/user_k7yw7pp5vss"/>
+</p>
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=Abir-Shaikh&utm_content=farm">
