@@ -30,10 +30,12 @@ Efficient problem-solving and system design
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
-### 🔝 Top Contributed Repo
+### 🔝  Full Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abir-Shaikh&theme=tokyonight)
+
 ![](https://github-contributor-stats.vercel.app/api?username=Abir-Shaikh&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abir-Shaikh)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abir-Shaikh&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
 ---
 <p align="center">
