@@ -33,7 +33,7 @@ Efficient problem-solving and system design
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Abir-Shaikh&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Abir-Shaikh)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abir-Shaikh)
 
 ---
 <p align="center">
