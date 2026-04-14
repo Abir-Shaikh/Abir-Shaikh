@@ -35,7 +35,7 @@ Efficient problem-solving and system design
 
 ![](https://github-contributor-stats.vercel.app/api?username=Abir-Shaikh&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abir-Shaikh&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Abir-Shaikh&theme=dark)](https://git.io/streak-stats)
 
 ---
 <p align="center">
