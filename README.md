@@ -5,7 +5,7 @@
 </div>
 
 
-<a href="https://app.daily.dev/abirshaikh"><img src="https://api.daily.dev/devcards/v2/OZkt3myTSpNr0cXBQCV1J.png?type=default&r=f05" width="356" alt="Abir Shaikh's Dev Card"/></a>
+<a href="https://app.daily.dev/abirshaikh"><img src="https://api.daily.dev/devcards/v2/OZkt3myTSpNr0cXBQCV1J.png?type=wide&r=fh7" width="652" alt="Abir Shaikh's Dev Card"/></a>
 
 # 💫 About Me:
 
